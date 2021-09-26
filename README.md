@@ -1,4 +1,4 @@
-### Hi there 👋
+### Short Bio
 
 <!--
 **seryoungshim17/seryoungshim17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: seryoungshim07@gmail.com
+- 💻 Blog: https://velog.io/@seryoung
+- 💼 LinkedIn: https://www.linkedin.com/in/%EC%84%B8%EB%A0%B9-%EC%8B%AC-69749418a/
+- 📫 Email: seryoungshim07@gmail.com
+
+### Projects
+- [Face Image Classification(Mask/Gender/Age)](https://github.com/boostcampaitech2/image-classification-level1-02)
