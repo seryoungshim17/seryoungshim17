@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="seryoungshim | LinkedIn" width="22px" src="./icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="seryoungshim | Github" width="22px" src="./icons/github.svg" />][github]
 [<img align="left" alt="seryoungshim | Velog" width="22px" src="./icons/velog.svg" />][velog]
-[<img align="left" alt="seryoungshim | Email" width="22px" src="./icons/gmail.svg" />][email]
-<br />
+[<img align="left" alt="seryoungshim | Email" width="22px" src="./icons/gmail.svg" />][email]  
+
+
 ![Seryoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seryoungshim17&theme=vue&show_icons=true)
 
 ### Projects
