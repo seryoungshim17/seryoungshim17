@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="seryoungshim | Email" width="22px" src="./icons/gmail.svg" />][email]   <br />
 
 - ✏️ **Machine Learning**, **Deep Learning**, **Computer Vision**
-- 🏫 Boostcamp AI Tech 2nd
+- 📝 Boostcamp AI Tech 2nd
 - 🎓 Computer Science (Bachelor), Sookmyung Women's University
 
 
