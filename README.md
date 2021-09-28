@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="seryoungshim | Velog" width="22px" src="./icons/velog.svg" />][velog]
 [<img align="left" alt="seryoungshim | Email" width="22px" src="./icons/gmail.svg" />][email]   <br />
 
-- 🌱 I’m currently learning **Machine Learning**, **Deep Learning**, **Computer Vision**
+- ✏️ **Machine Learning**, **Deep Learning**, **Computer Vision**
+- 🏫 Boostcamp AI Tech 2nd
+- 🎓 Computer Science (Bachelor), Sookmyung Women's University
+
 
 ### Projects
 - [Face Image Classification(Mask/Gender/Age)](https://github.com/boostcampaitech2/image-classification-level1-02)
