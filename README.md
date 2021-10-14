@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ### Projects
 - [Face Image Classification(Mask/Gender/Age)](https://github.com/boostcampaitech2/image-classification-level1-02)
+- [Trash Object Detection]()
 
 
 <!-- URLs -->
