@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="seryoungshim | LinkedIn" width="22px" src="./icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="seryoungshim | Github" width="22px" src="./icons/github.svg" />][github]
 [<img align="left" alt="seryoungshim | Velog" width="22px" src="./icons/velog.svg" />][velog]
-[<img align="left" alt="seryoungshim | Email" width="22px" src="./icons/gmail.svg" />][email]   <br />
 
+- 📫 seryoungshim07@gmail.com
 - ✏️ **Machine Learning**, **Deep Learning**, **Computer Vision**
 - 📝 Boostcamp AI Tech 2nd
 - 🎓 Computer Science (Bachelor), Sookmyung Women's University
@@ -33,4 +33,3 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/%EC%84%B8%EB%A0%B9-%EC%8B%AC-69749418a/
 [github]: https://github.com/seryoungshim17
 [velog]: https://velog.io/@seryoung
-[email]: seryoungshim07@gmail.com
