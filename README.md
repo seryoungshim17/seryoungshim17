@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/%EC%84%B8%EB%A0%B9-%EC%8B%AC-69749418a/
 [github]: https://github.com/seryoungshim17
 [velog]: https://velog.io/@seryoung
-[email]: "seryoungshim07@gmail.com"
+[email]: seryoungshim07@gmail.com
