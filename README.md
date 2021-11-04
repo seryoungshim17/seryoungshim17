@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="seryoungshim | Github" width="22px" src="./icons/github.svg" />][github]
 [<img align="left" alt="seryoungshim | Velog" width="22px" src="./icons/velog.svg" />][velog]
 
+
 - 📫 seryoungshim07@gmail.com
 - ✏️ **Machine Learning**, **Deep Learning**, **Computer Vision**
 - 📝 Boostcamp AI Tech 2nd
