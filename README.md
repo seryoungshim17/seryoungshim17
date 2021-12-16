@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 
 ### Projects
+- [OE(OCR in Editor)](https://github.com/boostcampaitech2/final-project-level3-cv-07)
 - [Face Image Classification(Mask/Gender/Age)](https://github.com/boostcampaitech2/image-classification-level1-02)
 - [Trash Object Detection]()
 
