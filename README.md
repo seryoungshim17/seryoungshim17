@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 |Project|Code|Summary|
 |---|:---:|:---:|
 |OE (OCR in Editor)|[code](https://github.com/seryoungshim17/OE_OCR_in_Editor)|[summary](https://www.canva.com/design/DAEz5gHsKQk/j9vlARdMgck0Y5cTdZRePw/view?website#2)|
-|Trash Object Detection|[code](https://github.com/boostcampaitech2/semantic-segmentation-level2-cv-07)|~~summary~~|
-|Image Classification|[code](https://github.com/boostcampaitech2/image-classification-level1-02)|~~summary~~|
+|Trash Object Detection|[code](https://github.com/boostcampaitech2/semantic-segmentation-level2-cv-07)||
+|Image Classification|[code](https://github.com/boostcampaitech2/image-classification-level1-02)||
 
 
 <!-- URLs -->
