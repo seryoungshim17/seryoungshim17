@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### Projects
 |Project|Code|Summary|
 |---|:---:|:---:|
-|OE (OCR in Editor)|[code](https://github.com/seryoungshim17/OE_OCR_in_Editor)||
-|Trash Object Detection|[code](https://github.com/boostcampaitech2/semantic-segmentation-level2-cv-07)||
-|Image Classification|[code](https://github.com/boostcampaitech2/image-classification-level1-02)||
+|OE (OCR in Editor)|[Code](https://github.com/seryoungshim17/OE_OCR_in_Editor)|[Summary](https://github.com/seryoungshim17/seryoungshim17/blob/main/OE(OCR%20in%20Editor).pdf)|
+|Trash Object Detection|[Code](https://github.com/boostcampaitech2/semantic-segmentation-level2-cv-07)||
+|Image Classification|[Code](https://github.com/boostcampaitech2/image-classification-level1-02)||
 
 
 <!-- URLs -->
