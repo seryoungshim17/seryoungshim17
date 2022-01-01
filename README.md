@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
 
 - 📫 seryoungshim07@gmail.com
 - ✏️ **Machine Learning**, **Deep Learning**, **Computer Vision**
