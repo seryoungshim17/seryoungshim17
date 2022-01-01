@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img align="left" alt="seryoungshim | LinkedIn" width="22px" src="./icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="seryoungshim | Github" width="22px" src="./icons/github.svg" />][github]
 <br/>
 
 - 📫 seryoungshim07@gmail.com
 - ✏️ **Machine Learning**, **Deep Learning**, **Computer Vision**
-- 📝 Boostcamp AI Tech 2nd
 - 🎓 Computer Science (Bachelor), Sookmyung Women's University
 
 
