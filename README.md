@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 📫 seryoungshim07@gmail.com
-- ✏️ **Computer Vision**, **Python**, **PyTorch**
 - 🎓 Computer Science (Bachelor), Sookmyung Women's University
 
 
