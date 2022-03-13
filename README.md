@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 |Project|Code|
 |---|:---:|
 |OE (OCR in Editor)|[Code](https://github.com/seryoungshim17/OE_OCR_in_Editor)|
+|Drama Recommendation|[Code](https://github.com/seryoungshim17/MbtiRecommend)|
 |University Portal(DB programming)|[Code](https://github.com/seryoungshim17/DataBaseProgramming_Portal)|
 
 
